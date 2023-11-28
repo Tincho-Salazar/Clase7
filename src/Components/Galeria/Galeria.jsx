@@ -153,9 +153,11 @@ const Galeria = () => {
             transition="all 0.3s ease"
             outline="none"
             borderRadius="10px"
+            borderColor='transparent'
             border="none"
             boxshadow="inset 2px 2px 2px 0px rgba(255,255,255,.5), 7px 7px 20px 0px rgba(0,0,0,.1), 4px 4px  5px 0px rgba(0,0,0,.1)"
-            _hover={{bg:'#ced4da'}}
+            borderStyle='none'
+            
           >
             Buscar
           </Button>
