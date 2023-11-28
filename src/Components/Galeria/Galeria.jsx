@@ -156,8 +156,7 @@ const Galeria = () => {
             borderColor='transparent'
             border="none"
             boxshadow="inset 2px 2px 2px 0px rgba(255,255,255,.5), 7px 7px 20px 0px rgba(0,0,0,.1), 4px 4px  5px 0px rgba(0,0,0,.1)"
-            borderStyle='none'
-            
+            borderStyle='none'            
           >
             Buscar
           </Button>
