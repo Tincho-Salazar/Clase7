@@ -34,8 +34,12 @@ Desarrollar una aplicación de galería de imágenes que permite a los usuarios 
 - Implementa la funcionalidad de animación con FRAMER MOTION.
 
 ## Demo y Repositorio
-- [Demo de la Aplicación](#) _(Ahttps://tincho-salazar.github.io/Clase7/)_
-- [Repositorio en GitHub](#) _(https://github.com/Tincho-Salazar/Clase7.git)_
+
+ ![Galery App](/public/Captura%20de%20pantalla%202023-11-27%20234458.png)
+
+
+- [Demo de la Aplicación](https://tincho-salazar.github.io/Clase7/)_
+- [Repositorio en GitHub](https://github.com/Tincho-Salazar/Clase7.git)_
 
 ---
 
